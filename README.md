@@ -12,7 +12,7 @@ Please create the conda environment to use this repository using the following l
 
 To use CUDA, you need GCC 7 or later (Linux) or Visual Studio (Windows) compilers.
 
-# demo
+# Demo
 This directory contains the demo to test and compare interpretable directions found by our proposed method, GANSpace, and LatentCLR methods in intermediate latent space (W) of pretrained StyleGAN2-FFHQ.
 
 **Contents of this directory:**
