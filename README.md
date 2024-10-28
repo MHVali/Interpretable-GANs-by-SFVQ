@@ -4,9 +4,9 @@ This repository contains the PyTorch implementation of the paper entitled "Unsup
 # Requirements
 Please create the conda environment to use this repository using the following lines in your terminal window:
 
-`conda create --name iclr2025_sfvq python=3.9`
+`conda create --name interp_sfvq python=3.9`
 
-`conda activate iclr2025_sfvq`
+`conda activate interp_sfvq`
 
 `pip install -r requirements.txt`
 
